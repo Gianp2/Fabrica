@@ -1,0 +1,6 @@
+{
+  "name": "VORTEX CNC | Maquinarias e Insumos Industriales",
+  "description": "Plataforma empresarial de maquinaria industrial CNC, líneas de conformado continuo (roll forming), corte láser por fibra y plegado de alta precisión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
